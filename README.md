@@ -1,1 +1,1 @@
-
+Hi, this is my first project from the Odin Project course. This project was about making a simple website with only html for recipes. I created the main index page and three recipe pages which i linked in the main page. On the recipe pages I added 2 lists (un-oredered list for recipe ingredients and ordered list for recipe steps), I also added an image on each of the pages.
